@@ -1,0 +1,5 @@
+# LJ Code 201 - Day 6
+
+There's a lot of work in this class. That's not a criticism, just an observation. With the classes and the lab-work and the reading, I barely get a moment to myself. However, and it's a big however, I really enjoy the work and the challenges. Every day I try to list out the things I'm grateful for and I'm really grateful for this class and the opportunity to learn something new.
+
+(I am in a bit of a fog right now, due to a fever, so I'm trying to stay coherent while I write this.) Right now we're learning about objects, how to create them, and how to use them. One of the key uses seems to be for updating an HTML page. Up until now the interactivity we added to HTML with JavaScript was through pop-ups. Now it looks like we're learning how to make our pages more dynamic. We've learned how to make objects using literal notation and in the reading for day 7, we learned about making objects with constructors. At this stage, the difference just feels semantic, but I'm looking forward to getting a better understanding of the differences.
