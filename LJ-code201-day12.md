@@ -1,0 +1,7 @@
+# LJ Code 201 - Day 12
+
+Yesterday our lab involved responding to a client's needs to create a market research survey. When I started the project, I spent about an hour putting together the user stories and setting up the framework of the files I knew I'd need. It's funny. At that point, I thought I was maybe 1/3 or a 1/4 of the way through the project, but woe is me. It's the next morning, and I'm still missing a couple of key features to the site. I've had to set them aside for the time being so I can finish the other homework, which means I'll have to do a resubmit of this lab to make sure I got all of the work correct.
+
+It's a lot of work, and this morning, that's a little stressful, but I experienced the flow of the work yesterday. I kept working at it at school until I got a text from my wife "Where are you?" I didn't realize it was already 7. I packed up, checked out, and walked to the bus, trying to figure out how to get the 3 random images to not repeat or be repeated from the previous round. I made notes on my phone the whole bus ride and part of my walk back home. Then after helping my son get off to bed, I immediately opened up my laptop to implement what I'd figured out. Again, I worked on it until I couldn't stare at the screen any longer and went to bed.
+
+My point: the work is hard, but it's really fun. I can count on my ears the amount of times I've felt the flow in the work I've done up until now, so I'm excited for the future. Now, I gotta get back to it.
