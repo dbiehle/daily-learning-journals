@@ -1,0 +1,3 @@
+# LJ Code 201 - Day 16
+
+Monday we spent time writing user stories in our group, drawing from the user scenarios we created on Friday. Afterwards, we used those stories to craft MVP and stretch goals. At first we had more items in our MVP, but as we talked through the technical requirements and met with the teaching team, we moved some of our features to the stretch goals list. This was somewhat difficult to do. I wanted to make our MVP something we could achieve, but I also wanted to solve a bunch of challenges to reinforce the lessons. In the end, I think we made our MVP attainable, but I really hope we can work in some of our stretch goals.  
