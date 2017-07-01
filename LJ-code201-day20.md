@@ -1,0 +1,7 @@
+# LJ Code 201 - Day 20
+
+Today we presented our final project "Choose Your Next Adventure". It was a little difficult standing up in front of an audience to do the presentation. Much nervous-making. Much pit-staining. But I think we prepared well. I kept rehearsing my part at home the night before and every time I mentioned "outside", my poor dog got very excited. By the 20th time, though, she moped away with an ugly sneer on her face. Poor thing.
+
+I also think the presentation went well. Our site did what we wanted it to do. It featured an easy-to-read interface and finding a hike and writing a journal entry were made simple for users. And I think the audience reception was good, too. I hope that having this experience will make the next demo easier.
+
+Our group also met with Stephanie to iron out some of the internal problems our team faced. I learned that I need to be more vocal, and sooner, if I detect a problem or a lack of understanding in my team. It's a difficult line to toe because I don't want to push others to communicate when it makes them uncomfortable and I don't feel like I should tug people along to get them to say what might be bothering them, but I also want to make sure we all understand what we need to do to finish a project in time. I want to have a good relationship with my team and an honest working environment. Something to keep in mind for our next group project.
