@@ -1,0 +1,5 @@
+# LJ Code 301 - Day 5
+
+On Friday we reviewed creating forms in our HTML and using event listeners to do stuff with the form data. In this instance, we were using the form to write blog posts. For our lab assignment, Ren and I paired to complete the tasks to add a form to a new page on a blog that shows a preview while completing the form. This was a difficult assignment, but mostly because there were a lot of moving parts to pin down before getting anything to show up on our site.
+
+I think Ren and I made for a good pair. We were both inquisitive enough to want to read through much of the existing code to see how it was working and what it was affecting. And we both had similar ideas of how to complete the tasks. We talked things over as we typed, so it felt real collaborative. And then since we had to work on it over the weekend, we found a way to do so without being in the same room and still learn the lessons from the assignment. At the completion of the assignment I feel like we both had equal contributions and got a lot out of the pair programming aspect.
