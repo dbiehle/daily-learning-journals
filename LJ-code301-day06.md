@@ -1,0 +1,3 @@
+# LJ Code 301 - Day 6
+
+Today we reached a point in our class that could be the stumbling block for many of us: asynchronous processing. We learned about AJAX and its relationship with JSON and jQuery, and like localStorage, it seems like an easy concept to grasp. The diagram alone seems so simple: you send a request, you get a response. So far, I've been able to do just that, but now I need to convert the data received into something to show on my site. Local storage confused me for a large part of the 201 class, so I'm hoping I can pick up asynchronous processing faster to be able to move on faster and get a deeper understanding of the methods.
