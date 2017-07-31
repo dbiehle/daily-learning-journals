@@ -1,0 +1,3 @@
+# LJ Code 301 - Day 15
+
+Today we had no lessons, other than the interpersonal kind. We got put into our groups for the final project and met to discuss what to produce for our final project. I got lucky: I haven't yet worked with one of my team members and I've only worked with the other two once. This will be a great chance to pick up some new programming tips and habits and learn how to work with more types of coders. I learned a lot from last project week. More communication is worthwhile. Pair programming and mob programming is very useful. I'm looking forward to what I'll bring out of this project. 
